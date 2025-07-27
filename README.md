@@ -26,8 +26,10 @@ Estou desenvolvendo projetos para colocar meus aprendizados em prática. Aqui vo
 - [ ] Integrações entre serviços AWS
 
 ## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/seu-link](https://www.linkedin.com/in/danillo-tanigushi-3403a7348/))  
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/danillo-tanigushi-3403a7348/)  
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:danillotanigushi@outlook.com)
+
 
 ---
 
